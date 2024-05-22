@@ -13,5 +13,5 @@ if (pontos < 50) {
 } else if (pontos >= 150 && pontos < 200) {
     alert("Jogou bem")
 } else {
-    alert("Jogou demais.")
+    alert("")
 }
